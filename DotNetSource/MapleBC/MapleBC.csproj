@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MapleCore\MapleCore.csproj" />
+    <ProjectReference Include="..\MapleDTO\MapleDTO.csproj" />
+  </ItemGroup>
+
+</Project>

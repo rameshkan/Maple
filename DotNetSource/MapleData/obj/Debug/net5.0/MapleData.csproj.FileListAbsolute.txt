@@ -1,0 +1,17 @@
+D:\Maple\MapleData\bin\Debug\net5.0\MapleCore.dll
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.csprojAssemblyReference.cache
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.AssemblyInfoInputs.cache
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.AssemblyInfo.cs
+D:\Maple\MapleData\bin\Debug\net5.0\MapleData.deps.json
+D:\Maple\MapleData\bin\Debug\net5.0\MapleData.dll
+D:\Maple\MapleData\bin\Debug\net5.0\ref\MapleData.dll
+D:\Maple\MapleData\bin\Debug\net5.0\MapleData.pdb
+D:\Maple\MapleData\bin\Debug\net5.0\MapleCore.pdb
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.csproj.CoreCompileInputs.cache
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.csproj.CopyComplete
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.dll
+D:\Maple\MapleData\obj\Debug\net5.0\ref\MapleData.dll
+D:\Maple\MapleData\obj\Debug\net5.0\MapleData.pdb
+D:\Maple\MapleData\bin\Debug\net5.0\MapleDTO.dll
+D:\Maple\MapleData\bin\Debug\net5.0\MapleDTO.pdb

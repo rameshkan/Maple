@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MapleBC\MapleBC.csproj" />
+    <ProjectReference Include="..\MapleCore\MapleCore.csproj" />
+    <ProjectReference Include="..\MapleData\MapleData.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.13.2" />
+  </ItemGroup>
+
+</Project>

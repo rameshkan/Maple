@@ -1,0 +1,12 @@
+D:\Maple\MapleCore\bin\Debug\net5.0\MapleCore.deps.json
+D:\Maple\MapleCore\bin\Debug\net5.0\MapleCore.dll
+D:\Maple\MapleCore\bin\Debug\net5.0\ref\MapleCore.dll
+D:\Maple\MapleCore\bin\Debug\net5.0\MapleCore.pdb
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.csprojAssemblyReference.cache
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.AssemblyInfoInputs.cache
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.AssemblyInfo.cs
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.csproj.CoreCompileInputs.cache
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.dll
+D:\Maple\MapleCore\obj\Debug\net5.0\ref\MapleCore.dll
+D:\Maple\MapleCore\obj\Debug\net5.0\MapleCore.pdb

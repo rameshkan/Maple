@@ -1,0 +1,17 @@
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleBC.deps.json
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleBC.dll
+D:\Maple\MapleBC\bin\Debug\net5.0\ref\MapleBC.dll
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleBC.pdb
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.csprojAssemblyReference.cache
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.AssemblyInfoInputs.cache
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.AssemblyInfo.cs
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.csproj.CoreCompileInputs.cache
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.dll
+D:\Maple\MapleBC\obj\Debug\net5.0\ref\MapleBC.dll
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.pdb
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleCore.dll
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleDTO.dll
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleCore.pdb
+D:\Maple\MapleBC\bin\Debug\net5.0\MapleDTO.pdb
+D:\Maple\MapleBC\obj\Debug\net5.0\MapleBC.csproj.CopyComplete
