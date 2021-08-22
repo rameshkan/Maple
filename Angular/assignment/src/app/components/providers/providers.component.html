@@ -1,0 +1,9 @@
+
+<div  *ngFor="let provider of providers" class="card-container">
+     <div class="card" style="width: 400px!important;">
+          <img style="width: 100%;height: 100%;" src="{{provider.imageUrl}}">
+          <div>
+          <span class="cardName">{{provider.name}}</span>
+          <span class="cardSpeciality">{{provider.specialities}}</span>
+     </div>
+</div>

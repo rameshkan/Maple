@@ -1,0 +1,21 @@
+
+
+<div class="content" role="main">
+     <div class="row">
+          <div class="col-4" style="height: 85vh; overflow-y: scroll;">
+               <div #serviceList class="card-container">
+                    <div *ngFor="let service of services">
+                         <div class="card" (click)="loadproviders(service.name, $event.target)">
+                              <span>{{service.name}}</span>
+                              <svg class="material-icons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                   <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
+                              </svg>
+                         </div>
+                    </div>
+               </div>
+          </div>
+          <div class="col-8">
+               <app-providers [providers]="providers"></app-providers>
+          </div>
+     </div>
+</div>
