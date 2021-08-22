@@ -19,7 +19,6 @@ export class ServicesComponent implements OnInit{
      ngOnInit(): void {
           this.webapi.get("services").then(
                (result) => {
-                    debugger;
                     if (result && result.data) {
                           result.data.forEach((element) => {
                               var service = {
@@ -34,7 +33,6 @@ export class ServicesComponent implements OnInit{
 
      loadproviders(serviceName, eref)
      {
-          debugger
           this.divContainer.nativeElement.querySelectorAll('.card_highlight').forEach(
                serviceDiv => {
                     serviceDiv.classList.remove('card_highlight');
@@ -45,7 +43,6 @@ export class ServicesComponent implements OnInit{
           //do not know the service signature to pass serviceid, hence fetching all records and filtering on the result
           this.webapi.get("providers?include=locations,schedules.location").then(
                (result) => {
-                    debugger;
                     if (result && result.data) {
                          result.data.forEach((element) => {
                          
